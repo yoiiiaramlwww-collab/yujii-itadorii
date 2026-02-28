@@ -1,12 +1,14 @@
-{
-  "id": "120363422166977077@newsletter",
-  "desc": "Permanen"
-},
-{
-  "id": "120363426326511354@newsletter",
-  "desc": "Permanen"
-},
-{
-  "id": "120363424305936238@newsletter",
-  "desc": "Permanen"
-}
+[
+  {
+    "id": "120363422166977077@newsletter",
+    "desc": "Permanen"
+  },
+  {
+    "id": "120363426326511354@newsletter",
+    "desc": "Permanen"
+  },
+  {
+    "id": "120363424305936238@newsletter",
+    "desc": "Permanen"
+  }
+]
